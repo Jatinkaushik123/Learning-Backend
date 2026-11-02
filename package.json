@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/NewSmoke38/intro-to-backend.git"
+    "url": "git+https://github.com/Jatinkaushik123/Learning-Backend.git"
   },
-  "author": "Shivani",
+  "author": "Jatin",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/NewSmoke38/intro-to-backend/issues"
+    "url": "https://github.com/Jatinkaushik123/Learning-Backend/issues"
   },
-  "homepage": "https://github.com/NewSmoke38/intro-to-backend#readme",
+  "homepage": "https://github.com/Jatinkaushik123/Learning-Backend#readme",
   "dependencies": {
     "bcrypt": "^6.0.0",
     "dotenv": "^17.2.2",

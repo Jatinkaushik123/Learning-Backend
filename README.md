@@ -1,30 +1,5 @@
 # Intro to Backend Development - My freeCodeCamp YouTube Tutorial
 
-hi there, this repository contains the code for my "Intro to Backend Development" video tutorial published on the freeCodeCamp YouTube channel!
-
-➡️ **Watch me teach the full tutorial here:** [[Link](https://www.youtube.com/watch?v=KOutPbKc9UM&t=4194s)]
-
-➡️ **NOTES:** [[Link](https://excalidraw.com/#json=MZ-nK2h_8IKWFL0Nm1gxH,QJrqIq4vpqwtzvjh4YMFIA)]
-
-
-[![Watch the freeCodeCamp Tutorial](https://img.youtube.com/vi/KOutPbKc9UM/maxresdefault.jpg)](https://www.youtube.com/watch?v=KOutPbKc9UM)
-
-## ☑️ What You'll Learn in this video
-
-* Learn what a backend is and its core components.
-
-* Set up a complete Node.js development environment and project structure.
-
-* Connect a Node.js application to a database (e.g., MongoDB).
-
-* Basic HTTP Fundamentals for building APIs .
-
-* Create Mongoose models for Users and Posts.
-
-* Build a basic authentication system with Register, Login, and Logout endpoints.
-
-* Implement complete CRUD (Create, Read, Update, Delete) APIs for posts.
-
 ## How to run this code and test the APIs
 
 ### To get a local copy up and running, follow these steps:
@@ -32,7 +7,7 @@ hi there, this repository contains the code for my "Intro to Backend Development
 1. **Clone the repository:**
 
 ```sh
-git clone https://github.com/NewSmoke38/intro-to-backend
+git clone https://github.com/Jatinkaushik123/Learning-Backend.git
 
 ```
 2. **Install all the Dependencies:**
@@ -62,6 +37,4 @@ npm run dev
 
 The application will be running on http://localhost:4000 (or the port you specified in your .env file).
 ***
-
-#### ⭐ If you found this tutorial helpful, please consider giving this repository a star!
 
