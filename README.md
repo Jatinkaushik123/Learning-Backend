@@ -1,4 +1,4 @@
-# Intro to Backend Development - My freeCodeCamp YouTube Tutorial
+# Intro to Backend Development
 
 ## How to run this code and test the APIs
 
